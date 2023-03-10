@@ -8,9 +8,6 @@ EmailAPI is a Python module that provides a simple and easy-to-use interface for
 - Fetch emails from the inbox with optional search criteria
 - Supports encrypted connections using TLS or SSL
 
-## Installation
-
-EmailAPI can be installed using pip:
 
 
 ## Usage
